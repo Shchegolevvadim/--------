@@ -1,0 +1,15 @@
+D:\итоговая\итоговая\bin\Debug\net6.0\итоговая.exe
+D:\итоговая\итоговая\bin\Debug\net6.0\итоговая.deps.json
+D:\итоговая\итоговая\bin\Debug\net6.0\итоговая.runtimeconfig.json
+D:\итоговая\итоговая\bin\Debug\net6.0\итоговая.dll
+D:\итоговая\итоговая\bin\Debug\net6.0\ref\итоговая.dll
+D:\итоговая\итоговая\bin\Debug\net6.0\итоговая.pdb
+D:\итоговая\итоговая\obj\Debug\net6.0\итоговая.csproj.AssemblyReference.cache
+D:\итоговая\итоговая\obj\Debug\net6.0\итоговая.GeneratedMSBuildEditorConfig.editorconfig
+D:\итоговая\итоговая\obj\Debug\net6.0\итоговая.AssemblyInfoInputs.cache
+D:\итоговая\итоговая\obj\Debug\net6.0\итоговая.AssemblyInfo.cs
+D:\итоговая\итоговая\obj\Debug\net6.0\итоговая.csproj.CoreCompileInputs.cache
+D:\итоговая\итоговая\obj\Debug\net6.0\итоговая.dll
+D:\итоговая\итоговая\obj\Debug\net6.0\ref\итоговая.dll
+D:\итоговая\итоговая\obj\Debug\net6.0\итоговая.pdb
+D:\итоговая\итоговая\obj\Debug\net6.0\итоговая.genruntimeconfig.cache
